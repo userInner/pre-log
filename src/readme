@@ -1,6 +1,6 @@
 Autodl账号和密码：
 ssh -p 40346 root@connect.westc.gpuhub.com
-+eF8QLY1fG9a
+_xxxxxxx
 
 项目运行操作流程：
 cd /root/code/LogGD/src/dataloader
