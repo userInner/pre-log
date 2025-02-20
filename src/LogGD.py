@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue April 07 17:16:36 2022
 
-@author: Yongzheng Xie
-"""
 import os
 import time
 import argparse
@@ -44,11 +40,11 @@ def arg_parse():
     parser = argparse.ArgumentParser(description='LogGT Arguments')
     parser.add_argument('--data_dir', dest='data_dir', default='../dataset/processed/', help='Directory where benchmark is located')
     parser.add_argument('--model', default="LogGT", help='The model to be used')
-    parser.add_argument('--datasets', nargs="+", default=['bgl', 'hdfs', 'tbd', 'spirit'], help='The dataset to be processed')
+    parser.add_argument('--datasets', nargs="+", default=['bgl', 'hdfs', 'tbd'], help='The dataset to be processed')
     parser.add_argument("--sampling_training", nargs="+", default=[1.0], type=float, help='Train data sampling')
     parser.add_argument('--feature_type', dest='feature_type', default='semantics', help='use what node feature')
     parser.add_argument('--embedding_type', dest='embedding_type', choices=['tfidf', 'bert'], default='bert', type=str, help='tfidf or bert is used')
-    parser.add_argument("--window_size", nargs="+", default=[100, 80, 60, 40, 20], type=int, help='window size')
+    parser.add_argument("--window_size", nargs="+", default=[100, 60, 20], type=int, help='window size')
     parser.add_argument("--anomaly_ratio", nargs="+", default=[1.0], type=float)  
     parser.add_argument('--clip', dest='clip', default=5.0, type=float, help='Gradient clipping')
     parser.add_argument('--num_epochs', dest='num_epochs', default=100, type=int, help='total epoch number')
@@ -63,7 +59,7 @@ def arg_parse():
     parser.add_argument("--weight_decay", default=0.001, type=float)
     parser.add_argument("--peak_lr", default=3e-4, type=float)
     parser.add_argument("--end_lr", default=1e-9, type=float)
-    parser.add_argument("--warmup_epoch", default=3, type=int)
+    parser.add_argument("--warmup_epoch", default=10, type=int)
     parser.add_argument('--dropout', dest='dropout', default=0.3, type=float, help='Dropout rate')
     parser.add_argument('--patience', dest='patience', default=10, type=int, help='Early stopping after patience')
     parser.add_argument('--seed', dest='seed', type=int, default=42, help='seed')

@@ -1,0 +1,19 @@
+Autodl账号和密码：
+ssh -p 40346 root@connect.westc.gpuhub.com
++eF8QLY1fG9a
+
+项目运行操作流程：
+cd /root/code/LogGD/src/dataloader
+python generate_data.py
+
+cd /root/code/LogGD/src/dataprocess
+python preprocess_hdfs.py
+python preprocess_non_hdfs.py --DS tbd
+python preprocess_non_hdfs.py --DS bgl
+
+cd /root/code/LogGD/src/dataprocess
+python graph_preprocess.py
+
+cd /root/code/LogGD/src/
+python LogGD.py
+python LogBaseline.py

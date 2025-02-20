@@ -7,7 +7,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 from torch_geometric.nn.conv import GINConv, GINEConv
-from torch_geometric.nn.glob.glob import global_add_pool
+from torch_geometric.nn.glob import global_add_pool
 # from torch_geometric.transforms import AddRandomWalkPE
 # from src.configuration import device
 

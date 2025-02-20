@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-Created on 4/05/2022 11:18 am
 
-@author : Yongzheng Xie
-@email : ilwoof@gmail.com
-"""
 import os.path
 import sys
 import argparse

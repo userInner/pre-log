@@ -14,6 +14,7 @@ parser.add_argument("--test_ratio", default=0.2, type=float)
 init_params = vars(parser.parse_args())
 
 dataset_name = init_params['DS']
+datasets = ['tbd', 'bgl']
 if dataset_name == 'tbd':
     log_file_name = 'Thunderbird10M'
 elif dataset_name == 'spirit':
@@ -54,8 +55,17 @@ def load_NonHDFS(
     struct_log["Label"] = struct_log["Label"].map(lambda x: x != "-").astype(int).values
     if 'bgl' in dataset_name:
         struct_log["datetime"] = pd.to_datetime(struct_log['Time'], format='%Y-%m-%d-%H.%M.%S.%f')
+    elif 'tbd' in dataset_name:
+        struct_log['datetime'] = pd.to_datetime(struct_log["Date"] + " " + struct_log['Time'], format='%Y.%m.%d %H:%M:%S')    
     else:
         struct_log['datetime'] = pd.to_datetime(struct_log["Date"] + " " + struct_log['Time'], format='%Y-%m-%d %H:%M:%S')
+
+    # if 'bgl' in dataset_name:
+    #     df["datetime"] = pd.to_datetime(df['Time'], format='%Y-%m-%d-%H.%M.%S.%f')
+    # elif 'tbd' in dataset_name:
+    #     df['datetime'] = pd.to_datetime(df["Date"] + " " + df['Time'], format='%Y.%m.%d %H:%M:%S')    
+    # else:
+    #     df['datetime'] = pd.to_datetime(df["Date"] + " " + df['Time'], format='%Y-%m-%d %H:%M:%S')
 
     # struct_log["seconds_since"] = ((struct_log["time"] - struct_log["time"][0]).dt.total_seconds().astype(int))
     struct_log["seconds_since"] = ((struct_log['datetime'] - struct_log["datetime"][0]).dt.total_seconds().astype(int))

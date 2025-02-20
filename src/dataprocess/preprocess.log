@@ -1,0 +1,511 @@
+INFO:root:Cannot load cached feature extractor.
+INFO:root:21 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Cannot load cached feature extractor.
+INFO:root:21 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Cannot load cached feature extractor.
+INFO:root:21 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:0 new templates show while testing.
+INFO:root:1588 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:20 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:1588 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Cannot load cached feature extractor.
+INFO:root:21 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:0 new templates show while testing.
+INFO:root:1588 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:21 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:0 new templates show while testing.
+INFO:root:1588 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:5 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:40 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:10 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:5 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:40 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:10 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:20 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:1588 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:20 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:6352 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:1588 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:95 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:27 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:16 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:4 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:27 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:7 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:150 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:80 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:1 new templates show while testing.
+INFO:root:20 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).
+INFO:root:Cannot load cached feature extractor.
+INFO:root:50 templates are found.
+INFO:root:Using semantics.
+INFO:root:Building vocab.
+INFO:root:Building vocab done.
+INFO:root:Transforming train data.
+INFO:root:460048 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (train).
+INFO:root:Transforming test data.
+INFO:root:0 new templates show while testing.
+INFO:root:115013 sliding windows generated.
+INFO:root:Extracting semantic features.
+INFO:root:Finish feature extraction (test).

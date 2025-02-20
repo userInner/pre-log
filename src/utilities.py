@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-Created on 19/05/2022 10:34 pm
-
-@author : Yongzheng Xie
-@email : ilwoof@gmail.com
-"""
 
 import numpy as np
 import torch

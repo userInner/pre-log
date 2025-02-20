@@ -25,8 +25,10 @@ logging.basicConfig(filename='preprocess.log', level=logging.INFO)
 
 from transformers import BertTokenizer, BertModel
 
-bert_tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-bert_model = BertModel.from_pretrained('bert-base-uncased')
+# bert_tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+bert_tokenizer = BertTokenizer.from_pretrained('/root/code/LogGD/src/hub_model/bert-base-uncased/models--bert-base-uncased/snapshots/86b5e0934494bd15c9632b12f734a8a67f723594')
+# bert_model = BertModel.from_pretrained('bert-base-uncased')
+bert_model = BertModel.from_pretrained('/root/code/LogGD/src/hub_model/bert-base-uncased/models--bert-base-uncased/snapshots/86b5e0934494bd15c9632b12f734a8a67f723594/model')
 
 def bert_encoder(s, no_wordpiece=0):
     if no_wordpiece:

@@ -1,11 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-Created on 5/05/2022 1:04 pm
 
-@author : Yongzheng Xie
-@email : ilwoof@gmail.com
-"""
 import os
 import numpy as np
 from datetime import datetime

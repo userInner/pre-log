@@ -82,8 +82,11 @@ def process_dataset(data_dir, output_dir, log_file, dataset_name, window_type, w
     # build log sequences
     if window_type == "sliding":
         # data preprocess
+        # print(dataset_name)
         if 'bgl' in dataset_name:
             df["datetime"] = pd.to_datetime(df['Time'], format='%Y-%m-%d-%H.%M.%S.%f')
+        elif 'tbd' in dataset_name:
+            df['datetime'] = pd.to_datetime(df["Date"] + " " + df['Time'], format='%Y.%m.%d %H:%M:%S')    
         else:
             df['datetime'] = pd.to_datetime(df["Date"] + " " + df['Time'], format='%Y-%m-%d %H:%M:%S')
 

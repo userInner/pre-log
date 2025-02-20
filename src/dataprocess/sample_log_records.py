@@ -1,11 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""
-Created on 26/05/2022 8:13 pm
-
-@author : Yongzheng Xie
-@email : ilwoof@gmail.com
-"""
 
 from itertools import islice
 

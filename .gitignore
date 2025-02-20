@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+result/
+
+others/experiments
+
+dataset
+
+src/hub_model/bert-base-uncased/models--bert-base-uncased/snapshots/86b5e0934494bd15c9632b12f734a8a67f723594/model/model.safetensors
+
+

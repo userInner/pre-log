@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue April 07 17:16:36 2022
-
-@author: Yongzheng Xie
-"""
 
 import os.path
 import sys
@@ -167,7 +162,7 @@ def set_param_configuration(data_name, data_path, w_size='session', s_size=None,
 if __name__ == "__main__":
 
     parser = argparse.ArgumentParser(description='Graph data generation')
-    parser.add_argument('--datasets', nargs="+", default=['hdfs', 'bgl', 'spirit', 'tbd'], help='The dataset to be processed')
+    parser.add_argument('--datasets', nargs="+", default=['hdfs', 'bgl', 'tbd'], help='The dataset to be processed')
     parser.add_argument('--keep_selfloop', default=True, help='Whether consecutively repetitive events are kept in graphs')
     parser.add_argument('--embedding_type', default='bert', choices=['bert', 'tfidf', 'w2v'], help='The method to generate embedding')
     parser.add_argument('--window_size', nargs="+", default=[100, 60, 20], type=int, help='window size')

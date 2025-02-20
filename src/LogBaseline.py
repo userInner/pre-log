@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue April 07 17:16:36 2022
-
-@author: Yongzheng Xie
-"""
 
 import os
 import time
